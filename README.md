@@ -71,7 +71,7 @@ More in [examples/](examples/).
 
 ## Listed on
 
-[Official MCP Registry](https://registry.modelcontextprotocol.io) · [Smithery](https://smithery.ai/servers/rylily/tandiu) · [Glama](https://glama.ai/mcp/servers)
+[Official MCP Registry](https://registry.modelcontextprotocol.io) · [Smithery](https://smithery.ai/servers/rylily/tandiu-data) · [Glama](https://glama.ai/mcp/servers)
 
 ## Citing
 
