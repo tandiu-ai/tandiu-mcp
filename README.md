@@ -69,6 +69,10 @@ curl -s https://www.tandiu.cn/mcp \
 
 More in [examples/](examples/).
 
+## Agent Skills
+
+Prefer skills over (or alongside) MCP? [tandiu-ai/agent-skills](https://github.com/tandiu-ai/agent-skills) packages the same data as SKILL.md skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI: LLM/GPU cost, China AI procurement, AI funding. The skills call these MCP tools when the server is connected.
+
 ## Listed on
 
 [Official MCP Registry](https://registry.modelcontextprotocol.io) · [Smithery](https://smithery.ai/servers/rylily/tandiu-data) · [Glama](https://glama.ai/mcp/servers)
