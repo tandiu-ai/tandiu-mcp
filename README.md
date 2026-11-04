@@ -29,6 +29,8 @@ All tools are read-only.
 | `recommend_coding_pc` | Which computers run Codex / Claude Code well |
 | `list_ai_funding` | AI funding rounds with amounts, investors and source links |
 | `list_overseas_listings` | Where Chinese open models are listed outside mainland China |
+| `find_mcp` | Official MCP servers of major US / Chinese companies: transport, auth barrier, pricing, and TANDIU's daily cross-border reachability test |
+| `get_mcp_changes` | Change events of the tracked official MCP servers (terms/pricing pages, cross-border reachability, tools, status, directory listing) |
 | `get_llm_price_history` | Daily price history per model (TANDIU Pro, API key required) |
 
 ## Connect
